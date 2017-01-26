@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sudo apt-get install git g++ make libncurses5-dev subversion libssl-dev gawk libxml-parser-perl unzip wget python xz-utils
